@@ -1,5 +1,5 @@
 # Abdul Hadi Mughal
-### Founder & Lead Architect at [Wattora Digital](https://wattora.digital)
+### Founder & Lead Architect at [Wattora Digital](https://wattoradigital.com)
 
 I build high-performance digital infrastructure specifically engineered for the solar industry. My focus lies in eliminating the technical debt prevalent in renewable energy sales funnels by replacing legacy templates with **Edge-native, serverless architectures.**
 
@@ -37,6 +37,6 @@ I don't just ship code; I monitor outcomes. Every deployment integrates **PostHo
 ---
 
 ## Connect
-- **Public Showcase:** [showcase.wattora.digital](https://showcase.wattora.digital)
-- **Business:** [Wattora Digital](https://wattora.digital)
+- **Public Showcase:** [showcase.wattoradigital.com](https://showcase.wattoradigital.com)
+- **Business:** [Wattora Digital](https://wattoradigital.com)
 - **LinkedIn:** [In/AbdulHadiMughal](https://www.linkedin.com/in/abdulhadimughal/)
